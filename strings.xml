@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Demo Chat</string>
+    <string name="search">Search.....</string>
+    <string name="username">Username</string>
+    <string name="profile">Profile</string>
+    <string name="type_a_message">Type a Message</string>
+</resources>
